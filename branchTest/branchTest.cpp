@@ -7,6 +7,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	char text[100];
 	cin>>text;
 	cout<<text;
+	//hello master
 	return 0;
 }
 
