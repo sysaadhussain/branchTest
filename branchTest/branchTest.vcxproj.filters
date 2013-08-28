@@ -32,5 +32,8 @@
     <ClCompile Include="branchTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="addition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
